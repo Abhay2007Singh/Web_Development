@@ -1,0 +1,64 @@
+.body{
+    text-align: center;
+    margin-top: 7%;
+    margin-bottom: 20%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+.Home{
+    margin-top: 1%;
+    height:30px;
+    width: 100px; 
+    cursor:pointer;  
+}
+.YouTube_Channel{
+    height:30px;
+    width: 200px; 
+    cursor:pointer;  
+}
+.Headder{
+    background-color: #cccacae7;
+    height: 40px;
+}
+.grey{
+    background-color: gray;
+    border-radius: 10%;
+    height: 100px;
+    width: 100px;
+    cursor:pointer;
+}
+.white{
+    background-color: white;
+    border-radius: 10%;
+    height: 100px;
+    width: 100px;
+    cursor:pointer;
+}
+.yellow{
+    background-color: yellow;
+    border-radius: 10%;
+    height: 100px;
+    width: 100px;
+    cursor:pointer;
+}
+.blue{
+    background-color: blue;
+    border-radius: 10%;
+    height: 100px;
+    width: 100px;
+    cursor:pointer;
+}
+.pink{
+    background-color: pink;
+    border-radius: 10%;
+    height: 100px;
+    width: 100px;
+    cursor:pointer;
+}
+.green{
+    background-color: green;
+    border-radius: 10%;
+    height: 100px;
+    width: 100px;
+    cursor:pointer;
+}
