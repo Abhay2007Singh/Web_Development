@@ -1,0 +1,58 @@
+.body{
+    background-size: cover;
+    background-image: url(Project_3.jpg);
+    background-repeat: no-repeat;
+}
+/*.container{
+    opacity: 0.5;
+    width: 500px;
+    margin-top: 50px;
+    margin-left: 440px;
+    background-color: white;
+    color: white;
+    #text-align: center;
+    border-radius: 20px;
+}*/
+/*.border{
+    background-color: ;
+    margin-top: 150px;
+    height: 250px;
+    border-style: solid;
+    border-color: orangered;
+    border-radius: 20px;
+}*/
+/*.hadder{    border-radius: 20px;
+    background-color: #a1a1a1;
+    height: 30px;
+}*/
+.home{
+    opacity: 1;
+    margin-left: 525px;
+    margin-top: 2px;
+    width: 150px;
+    height: 25px;
+    border-radius: 20px;
+}
+.youtube_channel{
+    opacity: 1;
+    margin-top: 2px;
+    width: 150px;
+    height: 25px;
+    border-radius: 20px;
+}
+.local_time{
+    opacity: 1;
+    text-align: center;  
+}
+.clock{
+    /*background-color: orangered;
+    margin-left: 180px;
+    height: 70px;
+    width: 130px;
+    border-radius: 20px;*/
+    opacity: 1;
+    margin-top: 200px;
+    margin-left: 450px;
+    color: black;
+    font-size: 100px;
+}
