@@ -1,0 +1,49 @@
+.body{
+    text-align: center;
+    background-color: #180161;
+    color: aliceblue;
+}
+.headder{
+    margin-top: 7%;
+    margin-left: 25%;
+    height: 40px;
+    width: 50%;
+    background-color: #FB773C;
+}
+.Home{
+    margin-top: 1%;
+    height:30px;
+    width: 100px; 
+    cursor:pointer;  
+}
+.Youtube_Channel{
+    height:30px;
+    width: 200px; 
+    cursor:pointer;  
+}
+.heading{
+    margin-top: 2%;
+}
+.bmi_calculater{
+    margin-top: 2%;
+    margin-left: 25%;
+    width: 50%;
+    color: aliceblue;
+}
+.form{
+    background-color: #4f1787;
+    border-style: solid;
+    border-color: #FB773C;
+}
+.guide{
+    background-color: #EB3678;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-style: solid;
+    border-color: #FB773C;
+}
+.calculate{
+    cursor:pointer;
+}
